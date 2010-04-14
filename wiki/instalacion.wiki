@@ -3,7 +3,10 @@
 
 = Introduction =
 
-Instalación en windows.
+= Instalación en windows. =
+
+Lo primero bajar e instalar Appserv, durante la instalación se nos va a preguntar la contraseña del administrador de la base de datos (la vamos a necesitar después).
+
 
 Instalación en un host.
 
