@@ -1,16 +1,16 @@
-#summary One-sentence summary of this page.
 #labels Featured,Documentacion
-
-= Introduction =
+= Introducción =
 
 = Instalación en windows. =
 
-Lo primero bajar e instalar Appserv, durante la instalación se nos va a preguntar la contraseña del administrador de la base de datos (la vamos a necesitar después).
+Lo primero bajar e instalar Appserv http://www.appservnetwork.com/ (la versión 2.5.10).
+
+Durante la instalación va a preguntar la contraseña del administrador de la base de datos, es muy importante apuntarla ya que la vamos a necesitar después.
 
 
-Instalación en un host.
+= Instalación en un host =.
 
-Instalación en Ubuntu.
+= Instalación en Ubuntu =.
 
 Add your content here.
 
