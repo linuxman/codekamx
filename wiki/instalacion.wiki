@@ -1,23 +1,13 @@
 #labels Featured,Documentacion
 = Introducción =
 
-= Instalación en windows. =
+== Instalación en windows. ==
 
-Lo primero bajar e instalar Appserv http://www.appservnetwork.com/ (la versión 2.5.10).
+Una guía muy completa sobre como instalar codeka mx en windows la pueden encontrar en:
 
-Durante la instalación va a preguntar la contraseña del administrador de la base de datos, es muy importante apuntarla ya que la vamos a necesitar después.
-
-
-= Instalación en un host =.
-
-= Instalación en Ubuntu =.
-
-Add your content here.
+<a href="http://linuxman.blogsome.com/2010/01/28/codeka-mx-sistema-de-facturacion-web-para-mexico/">CODEKA MX, sistema de facturación web para México</a>
 
 
-= Details =
+== Instalación en un host ==
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+== Instalación en Ubuntu ==
