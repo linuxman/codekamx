@@ -7,16 +7,17 @@ Funciona con PHP y como base de datos utiliza MySQL, así que puede funcionar bi
 
 Codeka MX  realiza las siguientes funciones:
 
-* Administra clientes y proveedores.
-* Organiza los artículos en familias.
-* Genera si es necesario el código de barras del artículo.
-* Elabora ordenes de salida y recibos de mercancía.
-* Controla la facturación.
-* Control de los cobros y pagos (Tesorería).
-* Corte de caja del día.
-* Un sencillo punto de venta.
-* Administración de copias de seguridad.
-* La mayoría de los documentos los exporta a formato PDF.
+ * Administra clientes y proveedores.
+ * Organiza los artículos en familias.
+Genera si es necesario el código de barras del artículo.
+Elabora ordenes de salida y recibos de mercancía.
+Controla la facturación.
+Control de los cobros y pagos (Tesorería).
+Corte de caja del día.
+Un sencillo punto de venta.
+Administración de copias de seguridad.
+
+La mayoría de los documentos los exporta a formato PDF.
 
 == Instalación en windows. ==
 
